@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<fileDescription name="tabDelimitedConfig">
+  <record recordType="delimited" recordDelimiter="$CR$LF" fieldDelimiter="$TAB" length="7">
+    <field order="0" dataType="string" format="$ANY"></field>
+    <field order="1" dataType="string" format="$ANY"></field>
+    <field order="2" dataType="string" format="$ANY"></field>
+    <field order="3" dataType="string" format="$ANY"></field>
+    <field order="4" dataType="string" format="$ANY"></field>
+    <field order="5" dataType="string" format="$ANY"></field>
+    <field order="6" dataType="string" format="$ANY"></field>
+  </record>
+</fileDescription>

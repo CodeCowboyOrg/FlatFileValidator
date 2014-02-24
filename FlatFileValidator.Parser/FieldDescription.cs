@@ -1,0 +1,19 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace FlatFileValidator.Parser
+{
+    class FieldDescription
+    {
+        #region Public Constructor
+        public FieldDescription()
+        {
+
+        }
+        #endregion Public Constructor
+
+    }
+}
